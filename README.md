@@ -10,7 +10,7 @@ APFG ( Auto Post Facebook in Group) ,Gunakan Script Ini Untuk Membuat Postingan 
     $ python3 Run.py
 
 ### Update Script :
-    $ rm -rf $HOME/FB-FEED
+    $ rm -rf $HOME/APFG
     $ git clone https://github.com/ferlyafriliyan/APFG
     $ cd APFG
     $ python3 Run.py
